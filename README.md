@@ -3,7 +3,7 @@
 
 **이스트소프트 인공지능서비스기획 KDT 과정 1기** 
 
-**Ma Goal is to succeed in getting a new job**   
+**Goal is to succeed in getting a new job**   
 
 *Brilliant thinking is rare,   
 but courage is in even shorter supply than genius*   
@@ -41,17 +41,19 @@ but courage is in even shorter supply than genius*
     + 정규화 : 화폐가치 등 기준이 다 다를 때 0-1 값으로 변환
      
 |  |귀무가설 참|귀무가설 거짓|
-|:------:|:------:|:------:|
-|귀무가설 채택|옳은 결정|제 2종 오류|
-|귀무가설 기각(대립가설 채택)|제 1종 오류|옳은 결정|   
+|:-----:|:-----:|:-----:|
+|귀무가설 채택|옳은 결정|<span style="color:#fff5b1">**제2종 오류**</span>|
+|귀무가설 기각(대립가설 채택)|<span style="color:blue">**제1종 오류**</span>|옳은 결정|   
      
-**데이터베이스**
+<span style="color:red">**데이터베이스**</span>
 * 요구사항 수집분석
   - 문제에 대한 정의, 추상화 레벨에 맞는 정확한 용어 사용
 * 개념적 설계
   - ERD 데이터 모델링 : 엔티티와 엔티티(개체) 간 관계 규명 - Barker, IE 표기법 사용
 
-**SQL 분류**
-![20231115_113724](https://github.com/vivavory/WASSUP/assets/151701348/c1a4c54b-aefd-4c96-8bf7-5ec561c06c9d)
+<img src=https://github.com/vivavory/WASSUP/assets/151701348/c1a4c54b-aefd-4c96-8bf7-5ec561c06c9d width="70%" height="50%" title="px(픽셀) 크기 설정" alt="20231115_113724"></img> 
+
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvivavory%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
